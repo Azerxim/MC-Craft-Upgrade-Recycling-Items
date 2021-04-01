@@ -1,6 +1,6 @@
 # Bastion Crafting
 
-Minecraft Datapack - Tables Upgrade
+Minecraft Datapack - Tables & Furnaces Upgrade
 
 ### Version
 Minecraft: 1.16
