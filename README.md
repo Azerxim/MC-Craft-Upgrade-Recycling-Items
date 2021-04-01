@@ -1,4 +1,4 @@
-# Bastion Crafting
+# Bastion CUR
 
 Minecraft Datapack - Tables & Furnaces
 
