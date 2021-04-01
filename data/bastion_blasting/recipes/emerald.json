@@ -1,0 +1,9 @@
+{
+  "type": "blasting",
+  "ingredient": {
+    "tag": "bastion_blasting:diamond_stuff"
+  },
+  "result": "minecraft:emerald",
+  "experience": 50.0,
+  "cookingtime": 600
+}

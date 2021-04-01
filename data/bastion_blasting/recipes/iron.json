@@ -1,0 +1,9 @@
+{
+  "type": "blasting",
+  "ingredient": {
+    "tag": "bastion_blasting:iron_stuff"
+  },
+  "result": "minecraft:iron",
+  "experience": 50.0,
+  "cookingtime": 400
+}

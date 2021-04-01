@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "bastion_smithing:helmets"
+  },
+  "addition": {
+    "item": "minecraft:leather"
+  },
+  "result": {
+    "item": "minecraft:leather_helmet"
+  }
+}

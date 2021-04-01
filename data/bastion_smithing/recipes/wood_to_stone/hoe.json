@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:wooden_hoe"
+  },
+  "addition": {
+    "tag": "s32:stone"
+  },
+  "result": {
+    "item": "minecraft:stone_hoe"
+  }
+}
