@@ -1,8 +1,8 @@
-# Bastion CUR
+# Bastion CURI
 
 Minecraft Datapack - Tables & Furnaces
 
-Crafting, Upgrade and Recycling
+Crafting, Upgrade and Recycling Items
 
 ### Version
 Minecraft: 1.16
