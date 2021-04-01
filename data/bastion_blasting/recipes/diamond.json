@@ -1,0 +1,9 @@
+{
+  "type": "blasting",
+  "ingredient": {
+    "tag": "bastion_blasting:diamond_stuff"
+  },
+  "result": "minecraft:diamond",
+  "experience": 1.0,
+  "cookingtime": 500
+}

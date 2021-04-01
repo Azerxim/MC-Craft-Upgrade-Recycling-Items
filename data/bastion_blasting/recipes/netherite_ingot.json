@@ -1,0 +1,9 @@
+{
+  "type": "blasting",
+  "ingredient": {
+    "tag": "bastion_blasting:netherite_stuff"
+  },
+  "result": "minecraft:netherite_ingot",
+  "experience": 1.0,
+  "cookingtime": 800
+}
