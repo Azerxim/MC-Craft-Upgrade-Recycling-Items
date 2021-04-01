@@ -1,6 +1,8 @@
 # Bastion Crafting
 
-Minecraft Datapack - Tables & Furnaces Upgrade
+Minecraft Datapack - Tables & Furnaces
+
+Crafting, Upgrade and Recycling
 
 ### Version
 Minecraft: 1.16
