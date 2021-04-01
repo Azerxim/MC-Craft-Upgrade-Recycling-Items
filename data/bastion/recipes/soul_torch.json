@@ -9,7 +9,7 @@
 				"item": "minecraft:touch"
 			},
 			"s": {
-				"item": "bastion:soul"
+				"tag": "bastion:soul"
 			}
 		},
 		"result": {

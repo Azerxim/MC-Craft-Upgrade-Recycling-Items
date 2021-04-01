@@ -9,7 +9,7 @@
 				"item": "minecraft:campfire"
 			},
 			"s": {
-				"item": "bastion:soul"
+				"tag": "bastion:soul"
 			}
 		},
 		"result": {

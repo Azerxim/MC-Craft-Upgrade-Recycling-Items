@@ -1,7 +1,7 @@
 {
   "type": "smelting",
   "ingredient": {
-    "item": "bastion:mushroom_blocks"
+    "tag": "bastion:mushroom_blocks"
   },
   "result": "minecraft:mushroom_stem",
   "experience": 1.0,

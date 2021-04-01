@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "bastion_smithing:chestplates"
+    "tag": "bastion_smithing:chestplates"
   },
   "addition": {
     "item": "minecraft:leather"

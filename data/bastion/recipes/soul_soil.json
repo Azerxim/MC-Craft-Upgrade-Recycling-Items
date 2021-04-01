@@ -2,7 +2,7 @@
 		"type": "crafting_shapeless",
 		"ingredients": [
 			{
-				"item": "bastion:dirt_blocks"
+				"tag": "bastion:dirt_blocks"
 			},
 			{
 				"item": "minecraft:sugar"

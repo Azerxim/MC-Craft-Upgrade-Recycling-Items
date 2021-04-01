@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "bastion_smithing:helmets"
+    "tag": "bastion_smithing:helmets"
   },
   "addition": {
     "item": "minecraft:chain"

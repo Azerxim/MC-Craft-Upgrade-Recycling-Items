@@ -3,7 +3,7 @@
   "ingredient": {
     "tag": "bastion_blasting:iron_stuff"
   },
-  "result": "minecraft:iron",
-  "experience": 50.0,
+  "result": "minecraft:iron_ingot",
+  "experience": 40,
   "cookingtime": 400
 }

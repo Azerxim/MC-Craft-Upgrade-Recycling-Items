@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "bastion_smithing:leggings"
+    "tag": "bastion_smithing:leggings"
   },
   "addition": {
     "item": "minecraft:leather"

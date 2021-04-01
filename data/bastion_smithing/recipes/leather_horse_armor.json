@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "item": "bastion_smithing:horse_armors"
+    "tag": "bastion_smithing:horse_armors"
   },
   "addition": {
     "item": "minecraft:leather"

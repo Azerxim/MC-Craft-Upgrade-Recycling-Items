@@ -4,6 +4,6 @@
     "tag": "bastion_blasting:netherite_stuff"
   },
   "result": "minecraft:netherite_ingot",
-  "experience": 50.0,
+  "experience": 40,
   "cookingtime": 800
 }
