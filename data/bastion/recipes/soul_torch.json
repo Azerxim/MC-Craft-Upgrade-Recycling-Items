@@ -6,7 +6,7 @@
 		],
 		"key": {
 			"t": {
-				"item": "minecraft:touch"
+				"item": "minecraft:torch"
 			},
 			"s": {
 				"tag": "bastion:soul"

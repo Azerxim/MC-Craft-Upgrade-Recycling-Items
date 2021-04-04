@@ -1,9 +1,9 @@
 {
-  "type": "blasting",
+  "type": "minecraft:blasting",
   "ingredient": {
     "tag": "bastion_blasting:copper_stuff"
   },
   "result": "minecraft:copper_ingot",
-  "experience": 40,
-  "cookingtime": 400
+  "experience": 1.0,
+  "cookingtime": 200
 }

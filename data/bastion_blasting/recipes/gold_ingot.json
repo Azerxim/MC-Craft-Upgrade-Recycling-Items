@@ -1,9 +1,0 @@
-{
-  "type": "blasting",
-  "ingredient": {
-    "tag": "bastion_blasting:gold_stuff"
-  },
-  "result": "minecraft:gold_ingot",
-  "experience": 40,
-  "cookingtime": 400
-}

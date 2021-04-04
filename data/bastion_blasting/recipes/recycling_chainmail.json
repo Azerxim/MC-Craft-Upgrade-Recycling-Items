@@ -1,9 +1,9 @@
 {
-  "type": "blasting",
+  "type": "minecraft:blasting",
   "ingredient": {
     "tag": "bastion_blasting:chainmail_stuff"
   },
   "result": "minecraft:chain",
-  "experience": 40,
-  "cookingtime": 200
+  "experience": 1.0,
+  "cookingtime": 100
 }

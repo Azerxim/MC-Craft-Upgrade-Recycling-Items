@@ -1,14 +1,8 @@
 {
   "values": [
-    "minecraft:chainmail_axe",
     "minecraft:chainmail_boots",
     "minecraft:chainmail_chestplate",
     "minecraft:chainmail_helmet",
-    "minecraft:chainmail_hoe",
-    "minecraft:chainmail_horse_armor",
-    "minecraft:chainmail_leggings",
-    "minecraft:chainmail_shovel",
-    "minecraft:chainmail_sword",
-    "minecraft:chainmail_pickaxe"
+    "minecraft:chainmail_leggings"
   ]
 }
