@@ -4,7 +4,7 @@
     "item": "minecraft:wooden_axe"
   },
   "addition": {
-    "tag": "s32:stone"
+    "tag": "bastion:stone"
   },
   "result": {
     "item": "minecraft:stone_axe"
