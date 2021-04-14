@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+    "item": "minecraft:dark_oak_fence"
+    },
+    {
+    "item": "minecraft:dark_oak_stairs"
+    }
+  ],
+  "result": "minecraft:dark_oak_planks",
+  "group": "cutting_blocks",
+  "count": 1
+}

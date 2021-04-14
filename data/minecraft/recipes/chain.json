@@ -1,7 +1,7 @@
 {
   "type": "minecraft:blasting",
   "ingredient": {
-    "tag": "bastion_blasting:chainmail_stuff"
+    "tag": "bastion_recycling:chainmail_stuff"
   },
   "result": "minecraft:chain",
   "experience": 10,

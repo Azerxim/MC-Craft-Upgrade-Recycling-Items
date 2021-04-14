@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+    "item": "minecraft:crimson_fence"
+    },
+    {
+    "item": "minecraft:crimson_stairs"
+    }
+  ],
+  "result": "minecraft:crimson_planks",
+  "group": "cutting_blocks",
+  "count": 1
+}

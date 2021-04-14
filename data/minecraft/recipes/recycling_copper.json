@@ -1,7 +1,7 @@
 {
   "type": "minecraft:blasting",
   "ingredient": {
-    "tag": "bastion_blasting:copper_stuff"
+    "tag": "bastion_recycling:copper_stuff"
   },
   "result": "minecraft:copper_ingot",
   "experience": 10,

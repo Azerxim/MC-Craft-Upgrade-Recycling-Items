@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+    "item": "minecraft:acacia_fence"
+    },
+    {
+    "item": "minecraft:acacia_stairs"
+    }
+  ],
+  "result": "minecraft:acacia_planks",
+  "group": "cutting_blocks",
+  "count": 1
+}
