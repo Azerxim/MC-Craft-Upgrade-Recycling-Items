@@ -1,17 +1,16 @@
-
 {
   "type": "crafting_shaped",
   "pattern": [
-      "##",
-      "##"
+    "##",
+    "##"
   ],
   "key": {
-      "#": {
-          "tag": "bastion:fire_coral"
-      }
+    "#": {
+      "tag": "bastion:fire_coral"
+    }
   },
   "result": {
-      "item": "minecraft:fire_coral_block",
-      "count": 1
+    "item": "minecraft:fire_coral_block",
+    "count": 1
   }
 }

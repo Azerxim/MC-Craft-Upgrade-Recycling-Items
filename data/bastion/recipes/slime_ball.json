@@ -1,17 +1,17 @@
 ﻿{
-    "type": "crafting_shaped",
-    "pattern": [
-        "###",
-        "###",
-        "###"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:sea_pickle"
-        }
-    },
-    "result": {
-        "item": "minecraft:slime_ball",
-        "count": 1
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+        "item": "minecraft:sea_pickle"
     }
+  },
+  "result": {
+    "item": "minecraft:slime_ball",
+    "count": 1
+  }
 }
