@@ -10,7 +10,7 @@
 			"tag": "bastion:seeds"
 		},
 		"d": {
-			"item": "minecraft:dirt"
+			"item": "minecraft:grass_block"
 		}
 	},
 	"result": {
