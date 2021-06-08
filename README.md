@@ -6,9 +6,9 @@ Crafting, Upgrade and Recycling Items
 
 
 ### Release version
-Minecraft 1.16
+Minecraft 1.17
 
-Datapack version 2.1
+Datapack version 2.2
 
 
 ### Dev version
