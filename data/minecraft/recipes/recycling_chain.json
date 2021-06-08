@@ -4,6 +4,6 @@
     "tag": "bastion_recycling:chainmail_stuff"
   },
   "result": "minecraft:chain",
-  "experience": 10,
-  "cookingtime": 100
+  "experience": 50,
+  "cookingtime": 200
 }

@@ -33,6 +33,6 @@
     }
   ],
   "result": "minecraft:gold_ingot",
-  "experience": 10,
-  "cookingtime": 100
+  "experience": 50,
+  "cookingtime": 300
 }
