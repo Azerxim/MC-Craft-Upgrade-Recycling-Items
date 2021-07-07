@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "tag": "bastion_smithing:boots"
+    "tag": "bastion_upgrade:boots"
   },
   "addition": {
     "item": "minecraft:chain"

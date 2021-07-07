@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "tag": "bastion_smithing:leggings"
+    "tag": "bastion_upgrade:leggings"
   },
   "addition": {
     "item": "minecraft:chain"
