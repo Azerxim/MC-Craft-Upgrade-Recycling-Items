@@ -9,3 +9,11 @@ Crafting, Upgrade and Recycling Items
 Minecraft 1.17
 
 Datapack version 2.2.1
+
+
+### Modules
+- [Woodcutter](https://github.com/Azerxim/CURI-Woodcutter)
+- Crafting
+- Upgrade
+- Recycling
+- Stonecutter +
