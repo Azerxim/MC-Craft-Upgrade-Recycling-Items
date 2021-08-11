@@ -1,12 +1,12 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "tag": "bastion_upgrade:horse_armors"
+    "tag": "curi_upgrade:chestplates"
   },
   "addition": {
     "item": "minecraft:leather"
   },
   "result": {
-    "item": "minecraft:leather_horse_armor"
+    "item": "minecraft:leather_chestplate"
   }
 }

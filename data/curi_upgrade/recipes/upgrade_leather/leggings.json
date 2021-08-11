@@ -1,12 +1,12 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "tag": "bastion_upgrade:boots"
+    "tag": "curi_upgrade:leggings"
   },
   "addition": {
     "item": "minecraft:leather"
   },
   "result": {
-    "item": "minecraft:leather_boots"
+    "item": "minecraft:leather_leggings"
   }
 }

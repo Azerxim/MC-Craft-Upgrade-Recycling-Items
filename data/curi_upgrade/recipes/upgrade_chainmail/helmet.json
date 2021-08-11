@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "tag": "bastion_upgrade:helmets"
+    "tag": "curi_upgrade:helmets"
   },
   "addition": {
     "item": "minecraft:chain"

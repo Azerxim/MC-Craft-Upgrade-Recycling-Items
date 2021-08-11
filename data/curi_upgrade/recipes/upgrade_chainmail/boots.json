@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing",
   "base": {
-    "tag": "bastion_upgrade:boots"
+    "tag": "curi_upgrade:boots"
   },
   "addition": {
     "item": "minecraft:chain"
