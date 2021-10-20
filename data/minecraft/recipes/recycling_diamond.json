@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "tag": "curi_recycling:diamond_stuff"
-  },
-  "result": "minecraft:emerald",
-  "experience": 100,
-  "cookingtime": 500
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "tag": "curi_recycling:chainmail_stuff"
-  },
-  "result": "minecraft:chain",
-  "experience": 50,
-  "cookingtime": 200
-}

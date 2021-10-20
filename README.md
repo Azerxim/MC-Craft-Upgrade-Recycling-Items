@@ -8,7 +8,7 @@ Crafting, Upgrade and Recycling Items
 ### Version
 Minecraft 1.17
 
-Datapack version 2.2.1
+Datapack version 2.3
 
 
 ### Modules
