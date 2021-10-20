@@ -30,6 +30,9 @@
     },
     {
       "item": "minecraft:golden_horse_armor"
+    },
+    {
+      "item": "minecraft:clock"
     }
   ],
   "result": "minecraft:gold_ingot",
