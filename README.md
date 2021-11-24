@@ -6,14 +6,14 @@ Crafting, Upgrade and Recycling Items
 
 
 ### Version
-Minecraft 1.17
+Minecraft 1.17+
 
-Datapack version 2.2.1
+Datapack version 2.3
 
 
 ### Modules
-- [Woodcutter](https://github.com/Azerxim/CURI-Woodcutter)
-- Crafting
-- Upgrade
-- Recycling
-- Stonecutter +
+- [Woodcutter](https://github.com/bastion-gaming/Bastion-CURI/tree/main/woodcutter)
+- [Crafting](https://github.com/bastion-gaming/Bastion-CURI/tree/main/crafting)
+- [Upgrade](https://github.com/bastion-gaming/Bastion-CURI/tree/main/upgrade)
+- [Recycling](https://github.com/bastion-gaming/Bastion-CURI/tree/main/recycling)
+- [Stonecutter +](https://github.com/bastion-gaming/Bastion-CURI/tree/main/stonecutter%2B)
