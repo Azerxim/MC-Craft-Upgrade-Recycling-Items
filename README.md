@@ -4,7 +4,9 @@ Minecraft Datapack - Tables & Furnaces
 
 Crafting, Upgrade and Recycling Items
 
-### [CurseForge] (https://www.curseforge.com/minecraft/customization/bastion-curi)
+### CurseForge
+
+https://www.curseforge.com/minecraft/customization/bastion-curi
 
 ### Version
 Minecraft 1.17+
