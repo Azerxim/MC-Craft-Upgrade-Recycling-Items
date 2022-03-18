@@ -11,9 +11,9 @@ https://www.curseforge.com/minecraft/customization/bastion-curi
 
 
 ### Version
-Minecraft 1.18
+Minecraft 1.19
 
-Datapack version 2.4
+Datapack version 2.5
 
 
 ### Modules

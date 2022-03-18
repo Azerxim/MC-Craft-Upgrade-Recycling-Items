@@ -1,5 +1,5 @@
 # CURI Woodcutter
-Datapack MC 1.17+
+Datapack MC 1.19
 
 ### **Use the stonecutter as a woodcutter!**
 ![Oak](https://download.topazdev.fr/projets/datapack/curi-woodcutter/buche_chene-32.png)
