@@ -24,6 +24,9 @@
     },
     {
     "item": "minecraft:birch_sign"
+    },
+    {
+    "item": "minecraft:birch_boat"
     }
   ],
   "result": "minecraft:birch_planks",
