@@ -8,6 +8,7 @@ Datapack MC 1.19
 ![Spruce](https://download.topazdev.fr/projets/datapack/curi-woodcutter/buche_sapin-32.png)
 ![Jungle](https://download.topazdev.fr/projets/datapack/curi-woodcutter/buche_acajou-32.png)
 ![Acacia](https://download.topazdev.fr/projets/datapack/curi-woodcutter/buche_acacia-32.png)
+![Mangrove](https://download.topazdev.fr/projets/datapack/curi-woodcutter/buche_mangrove-32.png)
 ![Crimson](https://download.topazdev.fr/projets/datapack/curi-woodcutter/crimson_stem-32.png)
 ![Warped](https://download.topazdev.fr/projets/datapack/curi-woodcutter/warped_stem-32.png)
 
